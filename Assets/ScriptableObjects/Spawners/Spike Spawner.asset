@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f4e055ef84ba084aa780baeaf0eebfb, type: 3}
+  m_Name: Spike Spawner
+  m_EditorClassIdentifier: 
+  _objectSpawned:
+    m_PersistentCalls:
+      m_Calls: []
+  _maxOffset: {x: 11.98, y: 7.39, z: 0}
+  _minOffset: {x: -7.64, y: -9.35, z: 0}
+  NumberSpawnObject: 10
+  _spikeTemplate: {fileID: 7386961621845474442, guid: 914bf3657be175b4e99684a285452ec3, type: 3}
